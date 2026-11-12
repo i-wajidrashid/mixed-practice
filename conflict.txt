@@ -1,1 +1,1 @@
-Version A
+Resolved Version A and B
